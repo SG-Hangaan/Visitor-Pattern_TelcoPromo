@@ -50,7 +50,6 @@ public class TelcoPromo {
 
 # UML Class Diagram
 
-
 <p align="center">
-  <img src="https://github.com/SG-Hangaan/Visitor-Pattern_TelcoPromo/assets/127215110/6631df4e-b5a4-4a44-be1a-e2d2c25782e7"/>
+  <img src="https://github.com/SG-Hangaan/Visitor-Pattern_TelcoPromo/assets/127215110/87a2ea30-9c44-4a51-be6a-d7283c7cd927"/>
 </p>
